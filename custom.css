@@ -1,3 +1,7 @@
-.channel_header {
+.channel_header, .ql-container.texty_single_line_input, #channel_topic_text, {
     background: #002B36 !important;
+}
+
+.channel_title {
+    color: #93A1A1 !important;
 }
