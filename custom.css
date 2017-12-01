@@ -1,4 +1,4 @@
-.channel_header, .ql-container.texty_single_line_input, #channel_topic_text {
+.channel_header, #search_container, #channel_topic_text {
     background: #002B36 !important;
 }
 
